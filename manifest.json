@@ -11,13 +11,13 @@
   "icons": [
     {
       "src": "https://donprincer.github.io/internauta-pwa/icon-192.png",
-      "sizes": "192x192",
+      "sizes": "any",
       "type": "image/png",
       "purpose": "any"
     },
     {
       "src": "https://donprincer.github.io/internauta-pwa/icon-512.png",
-      "sizes": "512x512",
+      "sizes": "any",
       "type": "image/png",
       "purpose": "any"
     }
