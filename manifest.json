@@ -13,3 +13,19 @@
     }
   ]
 }
+{
+  "name": "Internauta - La Radio del Futuro",
+  "short_name": "Internauta",
+  "description": "La Radio del Futuro en el Mundo Digital",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8B2FC9",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_placeholder_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
