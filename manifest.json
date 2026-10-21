@@ -1,10 +1,10 @@
 {
-  "id": "https://internautaonline.com/",
+  "id": "https://www.internautaonline.com/",
   "name": "Internauta - La Radio del Futuro",
   "short_name": "Internauta",
   "description": "La Radio del Futuro en el Mundo Digital",
-  "start_url": "https://internautaonline.com/",
-  "scope": "https://internautaonline.com/",
+  "start_url": "https://www.internautaonline.com/",
+  "scope": "https://www.internautaonline.com/",
   "display": "standalone",
   "background_color": "#8B2FC9",
   "theme_color": "#8B2FC9",
