@@ -1,25 +1,25 @@
 {
-  "id": "https://internautaonline.com/",
+  "id": "/",
   "name": "Internauta - La Radio del Futuro",
   "short_name": "Internauta",
   "description": "La Radio del Futuro en el Mundo Digital",
-  "start_url": "https://internautaonline.com/",
-  "scope": "https://internautaonline.com/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#8B2FC9",
   "theme_color": "#8B2FC9",
   "icons": [
     {
       "src": "https://donprincer.github.io/internauta-pwa/icon-192.png",
-      "sizes": "any",
+      "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "https://donprincer.github.io/internauta-pwa/icon-512.png",
-      "sizes": "any",
+      "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
